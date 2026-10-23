@@ -139,3 +139,8 @@ Against the existing frozen training table, the cleaned training stage reproduce
 
 This project is distributed under the BSD 3-Clause License.
 See [LICENSE](LICENSE) for details.
+
+## Archived release
+
+Version 1.0.0 is archived on Zenodo:
+[View the archived release](https://doi.org/10.5281/zenodo.23597239).
