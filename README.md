@@ -134,3 +134,8 @@ The companion photometry project produces scientific measurements, but this clas
 Cleanup retains the original feature formulae, period ranges, forest settings and default threshold. It changes configuration, file locations, cache handling, dependency checks and invalid-input guards. The Cepheid `label_source` metadata now correctly identifies the dedicated SOS catalogue; that correction does not change a feature or a training weight.
 
 Against the existing frozen training table, the cleaned training stage reproduces the saved 21,666-row out-of-fold table and holdout report. With the existing model and 90-row prediction input, assigned labels and identifiers are unchanged, and class probabilities agree to floating-point precision. These checks cover training and prediction using those inputs. The cleaned network-harvesting stage has not been rerun in full.
+
+## License
+
+This project is distributed under the BSD 3-Clause License.
+See [LICENSE](LICENSE) for details.
